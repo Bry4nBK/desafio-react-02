@@ -1,6 +1,6 @@
 .card-body{
   text-align: center;
-  background: linear-gradient(179.4deg, rgb(167, 168, 198) 2.2%, rgb(22, 50, 105) 96.2%);
+  background: linear-gradient(179.4deg, rgb(163, 164, 196) 2.2%, rgb(22, 50, 105) 96.2%);
 }
 
 .icon-shape {
@@ -10,8 +10,8 @@
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: rgb(205, 241, 215);
-  margin: 5px;
+  background-color: rgb(192, 246, 207);
+  margin: 6px;
   font-size: 250%;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .border-green {
-  border: 2px solid green !important;
+  border: 2px solid rgb(1, 181, 1) !important;
   border-radius: 4px;
 }
 
